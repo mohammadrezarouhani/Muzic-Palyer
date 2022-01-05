@@ -3,7 +3,7 @@
 *	<<muzic player that writed with pyqt5 and pygame >>	*
 *								*
 *	for runnig project, on console:				*
-*		==> pip3 install requirement.txt		*
+*		==> pip3 install -r requirement.txt		*
 *		==> python main.py 				*
 *****************************************************************
 
